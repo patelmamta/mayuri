@@ -3,4 +3,5 @@
 void main()
 {
 	printf("good morning..,");
+	printf("good afternoon..");
 }
