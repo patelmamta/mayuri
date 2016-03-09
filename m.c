@@ -6,6 +6,6 @@ void main()
 	printf("good afternoon..");
 	printf("good evening....");
 	print("good night....");
-	int a;
+	int a,b;
 	a=10;
 }
