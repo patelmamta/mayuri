@@ -8,4 +8,5 @@ void main()
 	print("good night....");
 	int a,b;
 	a=10;
+	b=20;
 }
